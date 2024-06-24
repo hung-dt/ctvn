@@ -467,7 +467,7 @@ $3LiN:
 $3LiP:
 $3LiR:Random «Chaos»
 $3LiT:Damage can vary
-$3LiV:Cuts enemy's HP by 1/2
+$3LiV:Giảm 1/2 HP của địch
 $3LiX:
 $3LiZ:
 $3Lib:
@@ -524,7 +524,7 @@ $3LkD:
 $3LkF:
 $3LkH:
 $3LkJ:
-$3LkL:Cuts «Fire» by 50%
+$3LkL:Giảm 50% đòn «Fire»
 $3LkN:Mg Defense +5
 $3LkP:
 $3LkR:
@@ -536,17 +536,17 @@ $3Lkb:Mg Defense +10
 $3Lkd:Protects status
 $3Lkf:Cuts Mg attack by 1/3
 $3Lkh:Mg Defense  +10
-$3Lkj:Cuts «Fire» by 80%
+$3Lkj:Giảm 80% đòn «Fire»
 $3Lkl:
 $3Lkn:
-$3Lkp:Absorbs «Lightning» hits
-$3Lkr:Absorbs «Shadow» hits
-$3Lkt:Absorbs «Water» hits
-$3Lkv:Absorbs «Fire» hits
-$3Lkx:Absorbs 50% of «Lightning» hits
-$3Lkz:Absorbs 50% of «Shadow» hits
-$3Ll1:Absorbs 50% of «Water» hits
-$3Ll3:Absorbs 50% of «Fire» hits
+$3Lkp:Hấp thụ đòn «Lightning»
+$3Lkr:Hấp thụ đòn «Shadow»
+$3Lkt:Hấp thụ đòn «Water»
+$3Lkv:Hấp thụ đòn «Fire»
+$3Lkx:Hấp thụ 50% đòn «Lightning»
+$3Lkz:Hấp thụ 50% đòn «Shadow»
+$3Ll1:Hấp thụ 50% đòn «Water»
+$3Ll3:Hấp thụ 50% đòn «Fire»
 $3Ll5:Speed +2/«Fire» guard up
 $3Ll7:Speed +3/«Fire» guard up
 $3Ll9:
@@ -562,18 +562,18 @@ $3LlR:
 $3LlT:
 $3LlV:Def. +9/locks status 
 $3LlX:
-$3LlZ:Cuts «Shadow» hits by 50%
+$3LlZ:Giảm 50% đòn «Shadow»
 $3Llb:Protects status
 $3Lld:Cuts physical damage by 1/3 
 $3Llf:Mg Defense +10
-$3Llh:Prevents «Chaos»
-$3Llj:Prevents «Lock»
-$3Lll:Prevents «Stop,» «Slow»
+$3Llh:Cản đòn «Chaos»
+$3Llj:Cản đòn «Lock»
+$3Lll:Cản đòn «Stop,» «Slow»
 $3Lln:Protects status
 $3Llp:???
 $3Llr:50% less time between attacks
-$3Llt:Cuts «Lightning» hits by 50%
-$3Llv:Cuts «Water» hits by  50%
+$3Llt:Giảm 50% đòn «Lightning»
+$3Llv:Giảm 50% đòn «Water»
 $3Llx:
 $3Llz:Speed +1
 $3Lm1:Strike +2
@@ -600,11 +600,11 @@ $3Lmf:One-time auto reanimate
 $3Lmh:Auto attack / Hit & Def. up
 $3Lmj:Power +4
 $3Lml:Speed +2
-$3Lmn:Invokes triple tech. «DarkEternal»
-$3Lmp:Invokes triple tech. «OmegaFlare»
-$3Lmr:Invokes triple tech. «SpinStrike»
-$3Lmt:Invokes triple tech. «Poyozo Dance»
-$3Lmv:Invokes triple tech. «Grand Dream»
+$3Lmn:Tung chưởng ba «DarkEternal»
+$3Lmp:Tung chưởng ba «OmegaFlare»
+$3Lmr:Tung chưởng ba «SpinStrike»
+$3Lmt:Tung chưởng ba «Poyozo Dance»
+$3Lmv:Tung chưởng ba «Grand Dream»
 $3Lmx:Ups critical hit rate of Masamune
 $3Lmz:Vigor +6
 $3Ln1:Mg Defense +12
@@ -615,17 +615,17 @@ $3Ln9:
 $3LnB:Ups attack power
 $3LnD:Ups attack pwr. to the max
 $3LnF:
-$3LnH:Restores 50 HP
-$3LnJ:Restores 200 HP
-$3LnL:Restores 500 HP
-$3LnN:Restores 10 MP
-$3LnP:Restores 30 MP
-$3LnR:Restores 60 MP
-$3LnT:Restores HP/MP
-$3LnV:Restores MP
-$3LnX:Restores HP/MP for all
-$3LnZ:Restores Status
-$3Lnb:Revives an ally
+$3LnH:Phục hồi 50 HP
+$3LnJ:Phục hồi 200 HP
+$3LnL:Phục hồi 500 HP
+$3LnN:Phục hồi 10 MP
+$3LnP:Phục hồi 30 MP
+$3LnR:Phục hồi 60 MP
+$3LnT:Phục hồi HP/MP
+$3LnV:Phục hồi MP
+$3LnX:Phục hồi HP/MP for all
+$3LnZ:Phục hồi Status
+$3Lnb:Hồi sinh an ally
 $3Lnd:Recovers HP/MP at Save Pts.
 $3Lnf:Recovers from «?»
 $3Lnh:Restores 200 HP for all
@@ -1303,7 +1303,7 @@ $3MS5:Slash attack
 $3MS7:Attack using Lightning
 $3MS9:2x damage
 $3MSB:Strikes all enemies
-$3MSD:Bring ally back to life
+$3MSD:Hồi sinh đồng đội
 $3MSF:Attack enemy w/ Confuse 4 times
 $3MSH:Ultimate damage on all enemies
 $3MSJ:Restore ally's HP (Some)
@@ -1341,7 +1341,7 @@ $3MTJ:Low HP = greater damage
 $3MTL:HP(Some) & Status restored
 $3MTN:Rollokick an enemy
 $3MTP:A savage cat attack
-$3MTR:Stone an enemy
+$3MTR:Ném đá quân địch
 $3MTT:Steal from enemy
 $3MTV:Damage enemies w/ Tailspin
 $3MTX:Low HP = greater damage
@@ -1420,10 +1420,10 @@ $3MVl:Phys. Att. w/ NewMasamune
 ;-----------------
 ;tech/battle related strings
 ;-----------------
-$3MVn:Can't run away
-$3MVp:Single Tech
-$3MVr:Dual Tech
-$3MVt:Triple Tech
+$3MVn:Không thể bỏ chạy
+$3MVp:Chưởng Đơn
+$3MVr:Chưởng Đôi
+$3MVt:Chưởng Ba
 
 
 *z;tres msg
@@ -1431,11 +1431,11 @@ $3MVt:Triple Tech
 ;treasure box messages (are found elsewhere too)
 ;-----------------
 $8WRs:[nl]
-                Got 1 [item]!
+                 Được 1 [item]!
 $8WRu:[nl]
-                Found [num16]G!
+                Thấy [num16]G!
 $8WRw:[nl]
-                      Empty!
+                      Rỗng!
 
 
 *l16;bat
@@ -1733,63 +1733,63 @@ $3Q1x:_
 ;place names
 ;-----------------
 $1uXg:
-$1uXi:Mayor's Manor
-$1uXk:Residence
-$1uXm:Crono's house
-$1uXo:Lucca's house
-$1uXq:Gobb's house
-$1uXs:Truce Inn
+$1uXi:Nhà Thị trưởng
+$1uXk:Nhà dân
+$1uXm:Nhà Crono
+$1uXo:Nhà Lucca
+$1uXq:Nhà Gobb
+$1uXs:Nhà trọ Truce
 $1uXu:Snail Stop
 $1uXw:Eternal repose
 $1uXy:Breakwave Pt.
-$1uY0:Leene Square
-$1uY2:Market
-$1uY4:Porre Inn
-$1uY6:Ticket Office
-$1uY8:Guardia Forest
-$1uYA:Guardia Castle
-$1uYC:Zenan Bridge
-$1uYE:Melchior's Hut
+$1uY0:Quảng trường Leene
+$1uY2:Chợ
+$1uY4:Nhà trọ Porre
+$1uY6:Phòng vé
+$1uY8:Rừng Guardia
+$1uYA:Lâu đài Guardia
+$1uYC:Cầu Zenan
+$1uYE:Lều Melchior
 $1uYG:Forest Ruins
-$1uYI:Heckran Cave
-$1uYK:Fiona's Shrine
-$1uYM:West Cape
-$1uYO:Sun Keep
-$1uYQ:Hero's Grave
-$1uYS:Truce Canyon
-$1uYU:Cathedral
+$1uYI:Hang Heckran
+$1uYK:Đền thờ Fiona
+$1uYM:Mũi Tây
+$1uYO:Thành Mặt trời
+$1uYQ:Mộ Anh hùng
+$1uYS:Hẻm núi Truce
+$1uYU:Nhà thờ lớn
 $1uYW:Cursed Woods
-$1uYY:Denadoro Mts
-$1uYa:Tata's House
-$1uYc:Fiona's Villa
-$1uYe:Sunken Desert
-$1uYg:Magic Cave
-$1uYi:Magus's Lair
-$1uYk:Ozzie's Fort
+$1uYY:Núi Denadoro
+$1uYa:Nhà Tata
+$1uYc:Biệt thự Fiona
+$1uYe:Sa mạc Sunken
+$1uYg:Hang Pháp thuật
+$1uYi:Hang ổ Magus
+$1uYk:Pháo đài Ozzie
 $1uYm: 
-$1uYo:Elder's House
+$1uYo:Nhà trưởng lão
 $1uYq:Northern Ruins
 $1uYs:
-$1uYu:Bangor Dome
-$1uYw:Trann Dome
-$1uYy:Lab 16
-$1uZ0:Arris Dome
-$1uZ2:Lab 32
-$1uZ4:Proto Dome
-$1uZ6:Factory
+$1uYu:Nhà vòm Bangor
+$1uYw:Nhà vòm Trann
+$1uYy:Phòng Lab 16
+$1uZ0:Nhà vòm Arris
+$1uZ2:Phòng Lab 32
+$1uZ4:Nhà vòm Proto
+$1uZ6:Nhà máy
 $1uZ8:Sewer Access
-$1uZA:Keeper's Dome
-$1uZC:Death Peak
-$1uZE:Geno Dome
-$1uZG:Sun Palace
-$1uZI:Robot village
+$1uZA:Nhà vòm Keeper
+$1uZC:Đỉnh Tử thần
+$1uZE:Nhà vòm Geno
+$1uZG:Cung điện Mặt trời
+$1uZI:Làng Robot
 $1uZK:Mystic Mts
-$1uZM:Ioka Hut
-$1uZO:Chief's Hut
+$1uZM:Lều Ioka
+$1uZO:Lều Tù trưởng
 $1uZQ:Meeting Site
 $1uZS:Forest Maze
 $1uZU:Reptite Lair
-$1uZW:Hunting Range
+$1uZW:Khu Săn bắt
 $1uZY:Dactyl Nest
 $1uZa:Tyrano Lair
 $1uZc:Chanting Mt
@@ -1798,30 +1798,30 @@ $1uZg:Enhasa
 $1uZi:Kajar
 $1uZk:Blackbird
 $1uZm:North Keep
-$1uZo:Terra Cave
-$1uZq:Zeal Palace
-$1uZs:Ocean Palace
+$1uZo:Hang Terra
+$1uZq:Cung điện Zeal
+$1uZs:Cung điện Ocean
 $1uZu:Last Village
-$1uZw:North Cape
+$1uZw:Mũi Bắc
 $1uZy:Exoskeleton
 $1ua0:
 $1ua2:
 $1ua4:Cafe
-$1ua6:Medina Square
+$1ua6:Quảng trường Medina
 $1ua8:Black Omen
 $1uaA:Vortex Pt
 $1uaC:Skyway
-$1uaE:Land Bridge
+$1uaE:Cầu Land
 $1uaG:Ayla's tent
 $1uaI:Laruba ruins
 $1uaK:Lair Ruins
 $1uaM:Commons
-$1uaO:Medina Inn
-$1uaQ:Choras Inn
-$1uaS:Truce Inn
-$1uaU:Dorino Inn
-$1uaW:Porre Inn
-$1uaY:Choras Inn
+$1uaO:Nhà trọ Medina
+$1uaQ:Nhà trọ Choras
+$1uaS:Nhà trọ Truce
+$1uaU:Nhà trọ Dorino
+$1uaW:Nhà trọ Porre
+$1uaY:Nhà trọ Choras
 $1uaa:Giant's Claw
 $1uac:
 $1uae:
@@ -1838,11 +1838,11 @@ $1uay:
 $1ub0:
 $1ub2:
 $1ub4:
-$1ub6:A.D. 1000
-$1ub8:A.D. 600
-$1ubA:A.D. 2300
-$1ubC:65000000 B.C.
-$1ubE:12000 B.C.
+$1ub6:1000 SCN
+$1ub8:600 SCN
+$1ubA:2300 SCN
+$1ubC:65000000 TCN
+$1ubE:12000 TCN
 $1ubG:??????
 
 
@@ -1851,11 +1851,11 @@ $1ubG:??????
 ;era list
 ;-----------------
 $HYAg:     ???
-$HYAi:  Present
-$HYAk:Middle Ages
-$HYAm:   Future
-$HYAo:Pre-historic
-$HYAq: Dark Ages
+$HYAi:  Hiện tại
+$HYAk:Trung cổ
+$HYAm:   Tương lai
+$HYAo:Tiền sử
+$HYAq: Thời tăm tối
 $HYAs:Black Omen
 $HYAu:End of Time
 
@@ -1864,47 +1864,47 @@ $HYAu:End of Time
 ;-----------------
 ;episode list
 ;-----------------
-$HXws:   The Millennial Fair
-$HXwu:  The Queen Returns
-$HXww:  The Queen is Gone
+$HXws:   Hội chợ Thiên niên kỷ
+$HXwu:  Hoàng hậu trở về
+$HXww:  Hoàng hậu biến mất
 $HXwy:       We're Back!
-$HXx0:         The Trial
+$HXx0:         Phiên tòa
 $HXx2:    Beyond the Ruins
 $HXx4:   The Factory Ruins
 $HXx6:    The End of Time
-$HXx8: The Village of Magic
-$HXxA:   The Hero Appears
-$HXxC:   Tata and the Frog
-$HXxE:  The Rare Red Rock
+$HXx8: Ngôi làng Phép thuật
+$HXxA:   Người hùng xuất hiện
+$HXxC:   Tata và Frog
+$HXxE:  Hòn đá đỏ quý hiếm
 $HXxG:   Footsteps! Follow!
 $HXxI:     The Masamune!
-$HXxK:      Magus' Castle
-$HXxM:Forward to the Past
-$HXxO:Unnatural Selection?
-$HXxQ:  The Magic Kingdom
+$HXxK:      Lâu đài Magus
+$HXxM:Tiến về quá khứ
+$HXxO:Lựa chọn bất tự nhiên?
+$HXxQ:  Vương quốc Phép thuật
 $HXxS:     Break the Seal!
 $HXxU: The Guru on Mt.Woe
 $HXxW:  What Lies Beyond?
 $HXxY:     Lavos Beckons
-$HXxa:      The New King
-$HXxc:      The Time Egg
-$HXxe:     The Fated Hour
-$HXxg:     The Final Battle
-$HXxi:          No data
+$HXxa:      Nhà vua mới
+$HXxc:      Quả trứng Thời gian
+$HXxe:     Giờ phút định mệnh
+$HXxg:     Trận chiến cuối cùng
+$HXxi:          Không có dữ liệu
 
 
 *z:^3Zkb:!3ZkV:^3Zpi:!3ZpZ;bat
 ;-----------------
 ;battle messages, part 1 (remember to check for wrapping)
 ;-----------------
-$46bZ:Got [num32] experience point(s)!
-$46bb:Got [num32] tech point(s)!
-$46bd:Found [num32]G!
-$46bf:Got 1x [item]!
+$46bZ:Được [num32] điểm kinh nghiệm!
+$46bb:Được [num32] điểm chưởng!
+$46bd:Thấy [num32]G!
+$46bf:Được 1x [item]!
 $46bh:[member]'s level up!
-$46bj:[member] learns [tech]!
-$46bl:Learns Dual Tech, [tech]!
-$46bn:Learns Triple Tech, [tech]!
+$46bj:[member] học [tech]!
+$46bl:Học chưởng đôi, [tech]!
+$46bn:Học chưởng ba, [tech]!
 $46bp:Ran away!
 $46br:[member] got up!
 $46bt:Nothing there!
@@ -1919,20 +1919,20 @@ $46bz:It was the thought that counted...
 ;-----------------
 $3W9p:Head repairs damage.
 $3W9r:Head repairs damage.
-$3W9t:Energy is stored in the wheels.
-$3W9v:Too far away to counterattack.
-$3W9x:Too close, can't counterattack.
+$3W9t:Năng lượng được tích trong các bánh.
+$3W9v:Quá xa để phản đòn.
+$3W9x:Quá gần, không thể phản đòn.
 $3W9z:Mortal blow!
 $3WA1:NeedleSpin / Yakra's needle attack.
 $3WA3:Naga-ette's[heartsymbol][heartsymbol][heartsymbol] / Slow spell!
 $3WA5:Ding-a-ling / Chaos
 $3WA7:Drrrrrooooo...
-$3WA9:Attacked by moving object.
+$3WA9:Bị tấn công bởi vật di chuyển.
 $3WAB:I'll shred ya.
 $3WAD:Break down
 $3WAF:AmpliFire
 $3WAH:Ozzie's spell is broken.
-$3WAJ:Ozzie needs help!
+$3WAJ:Ozzie cần trợ giúp!
 $3WAL:Sand Breath / Darkness
 $3WAN:3 can join together for a Delta Attack.
 $3WAP:Gore, gore, gore, gore...
@@ -1943,16 +1943,16 @@ $3WAX:Water wave!!
 $3WAZ:Revives the Bit.
 $3WAb:Brief counterattack break.
 $3WAd:Chemically fuse with other members.
-$3WAf:Storing Tornado Energy.
+$3WAf:Tích trữ năng lượng Tornado.
 $3WAh:Tornado Energy has been neutralized.
 $3WAj:AmpliFire Counterattack
 $3WAl:Pain...
-$3WAn:What are you aiming at, you fool?
+$3WAn:Mày nhắm vào đâu thế, đồ ngu?
 $3WAp:Yes indeed!
 $3WAr:Hahahaha...
 $3WAt:Shocked!
 $3WAv:Revives from shock.
-$3WAx:Dark Matter / Magus's strongest attack!
+$3WAx:Dark Matter / Đòn mạnh nhất của Magus!
 $3WAz:Releases electrocution energy.
 $3WB1:Waltz of the Wind [heartsymbol] /  Chaos
 $3WB3:Prism Beam [heartsymbol] /  Darkness
@@ -1969,7 +1969,7 @@ $3WBN:3
 $3WBP:2
 $3WBR:1
 $3WBT:0
-$3WBV:Attack, attack, attack...
+$3WBV:Đánh, đánh, đánh...
 $3WBX:Barrier change/Only Lightning damages.
 $3WBZ:Barrier change / Only Shadow damages.
 $3WBb:Barrier change / Only Fire damages.
@@ -16210,20 +16210,20 @@ $HXVk:ABCDEFGHIJKLMNOPQRSTUVWXYZ!?/#abcdefghijklmnopqrstuvwxyz=-+%0123456789«»
 ;some misc prompts
 ;-----------------
 $HXsh:
-Enter a name, then push the Start Button.
+Nhập tên rồi ấn nút Start.
 $HXsj:
-Enemies will attack even if you're not ready!
+Địch sẽ đánh kể cả khi bạn chưa sẵn sàng!
 $HXsl:
 Take your time to choose items and fight strategically.
 $HXsn:
 Start using which data?
 $HXsp:
-Who'll you  replace?
+Bạn sẽ thay ai?
 $HXsr:
 Can't[nl]
 do that!
 $HXst:
-Can be used by
+Có thể dùng bởi
 
 
 *z;cfg
@@ -16236,7 +16236,7 @@ $HYCQ:Save Menu Cursor?
 $HYCS:Save Battle Cursor?
 $HYCU:Save Skill/Item Cursor?
 $HYCW:Battle Speed
-$HYCY:Window Color
+$HYCY:Màu cửa sổ
 $HYCa:Battle Gauge
 $HYCc:Control Pad
 $HYCe:Skill/Item Info.
@@ -16256,8 +16256,8 @@ $HYD4:Standard
 $HYD6:Custom
 $HYD8:Wait
 $HYDA:Active
-$HYDC:Off
-$HYDE:On
+$HYDC:Tắt
+$HYDE:Bật
 $HYDG:N
 $HYDI:Y
 $HYDK:
